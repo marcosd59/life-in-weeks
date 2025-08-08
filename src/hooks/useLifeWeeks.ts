@@ -1,10 +1,6 @@
 import { useState, useEffect } from "react";
-import {
-  LifeData,
-  LifeStats,
-  calculateLifeStats,
-  getCurrentDate,
-} from "../utils/date";
+import type { LifeData, LifeStats } from "../utils/date";
+import { calculateLifeStats, getCurrentDate } from "../utils/date";
 
 const STORAGE_KEY = "life-in-weeks-data";
 

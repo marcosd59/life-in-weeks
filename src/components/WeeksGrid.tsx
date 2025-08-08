@@ -1,5 +1,3 @@
-import React from "react";
-
 interface LifeStats {
   weeksLived: number;
   weeksRemaining: number;
@@ -17,8 +15,6 @@ interface WeeksGridProps {
  */
 export function WeeksGrid({ stats }: WeeksGridProps) {
   const { weeksLived, totalWeeks } = stats;
-  const totalYears = Math.ceil(totalWeeks / 52);
-  const weeksPerYear = 52;
 
   // Generar el tablero continuo
   const renderWeeksGrid = () => {
