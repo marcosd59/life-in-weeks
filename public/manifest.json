@@ -1,0 +1,31 @@
+{
+  "name": "Life in Weeks - Tu vida en semanas",
+  "short_name": "Life in Weeks",
+  "description": "Visualiza tu vida en semanas y aprovecha cada momento al máximo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["productivity", "lifestyle", "utilities"],
+  "lang": "es",
+  "dir": "ltr"
+}
