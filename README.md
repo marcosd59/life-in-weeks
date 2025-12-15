@@ -1,8 +1,8 @@
-# [Life in Weeks](https://life-in-weeks-app.netlify.app/)
+# [Life in Weeks](https://marcosd59-life-in-weeks.netlify.app/)
 
 Una aplicación web moderna y responsive que visualiza tu vida en semanas, mostrando cuántas has vivido y cuántas te quedan según tu fecha de nacimiento y expectativa de vida. Construida con React, TypeScript y diseñada con una interfaz elegante que te ayuda a reflexionar sobre el tiempo.
 
-**¡Prueba la aplicación ahora mismo!** 👉 [https://life-in-weeks-app.netlify.app/](https://life-in-weeks-app.netlify.app/)
+**¡Prueba la aplicación ahora mismo!** 👉 [https://marcosd59-life-in-weeks.netlify.app/](https://marcosd59-life-in-weeks.netlify.app/)
 
 _No necesitas instalar nada localmente. Simplemente haz clic en el enlace y comienza a visualizar tu vida en semanas._
 
