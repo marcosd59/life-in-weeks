@@ -16,31 +16,11 @@ Life in Weeks es una aplicación interactiva que permite a los usuarios visualiz
 
 ### Página principal
 
-![Vista Home](src/assets/Home-01.png)
-![Vista Home - Variante 2](src/assets/Home-02.png)
+![Vista Home](src/assets/Home.png)
 
----
+### Diseño Responsive
 
-### Formulario de datos
-
-![Formulario](src/assets/Form-01.png)
-![Formulario - Con datos](src/assets/Form-02.png)
-
----
-
-### Grilla de semanas
-
-![Grilla de semanas](src/assets/Grid-01.png)
-![Grilla de semanas - Detalle](src/assets/Grid-02.png)
-
----
-
-### Diseño adaptativo
-
-![Vista móvil](src/assets/Phone-01.png)
-![Vista móvil - Variante 2](src/assets/Phone-02.png)
-![Vista móvil - Variante 3](src/assets/Phone-03.png)
-![Vista móvil - Variante 4](src/assets/Phone-04.png)
+![Vista Home Responsive](src/assets/Home-Responsive.png)
 
 ---
 
